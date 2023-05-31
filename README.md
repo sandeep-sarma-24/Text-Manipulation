@@ -51,7 +51,7 @@ Each component also provides a summary of the input text, including word count, 
 
 ## Built With
 
-- [React](https://reactjs.org/)
+- [React](https://reactjs.org/) : JavaScript-based UI development library
 
 ## Contributing
 
