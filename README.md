@@ -61,12 +61,4 @@ We welcome contributions from the community. Please see our contributing guide f
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_twitter) - Your email
-
-Project Link: [https://github.com/your_username/Project-Name](https://github.com/your_username/Project-Name)
-
----
-
-Remember to replace the placeholders with your actual information.
